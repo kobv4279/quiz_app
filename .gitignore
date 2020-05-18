@@ -1,0 +1,12 @@
+#Heroku는 git을 활용해 배포하기 때문에 .gitignore파일로 올리지 않을 파일들을 설정
+
+__pycache__/
+*.py[cod]
+
+.Python
+venv/
+
+db.sqlite3
+.DS_Store
+
+.vscode/
