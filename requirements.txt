@@ -13,7 +13,7 @@ django-extensions==2.2.9
 django-nose==1.4.6
 django-redis==4.11.0
 django-urls==1.1.2
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 googlemaps==4.4.0
 gunicorn==20.0.4
 idna==2.9
